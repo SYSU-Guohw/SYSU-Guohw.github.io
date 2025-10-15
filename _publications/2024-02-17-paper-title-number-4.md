@@ -8,7 +8,7 @@ excerpt: >
 date: 2025-03-09
 venue: ' ICME 2025 '
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '[paper link](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=zEpdycwAAAAJ&authuser=1&citation_for_view=zEpdycwAAAAJ:u5HHmVD_uO8C)'
+paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=zEpdycwAAAAJ&authuser=1&citation_for_view=zEpdycwAAAAJ:u5HHmVD_uO8C'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Zhang R, Guo H, Zhang Z, et al. Gamed-snake: Gradient-aware adaptive momentum evolution deep snake model for multi-organ segmentation[J]. arXiv preprint arXiv:2501.12844, 2025.'
 ---
