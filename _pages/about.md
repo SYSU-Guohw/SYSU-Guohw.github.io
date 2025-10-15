@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year undergraduate student from [School of ISE](https://ise.sysu.edu.cn), [Sun YAt-sen University](https://www.sysu.edu.cn). My research interest includes Medical AI, Multimodal and LLMs.
+I'm a fourth year undergraduate student from [School of ISE](https://ise.sysu.edu.cn), [Sun Yat-sen University](https://www.sysu.edu.cn). My research interest includes Medical AI, Multimodal and LLMs.
 
 I was very fortunate to be advised by [Prof. Shen Zhao](https://ise.sysu.edu.cn/teacher/ZhaoShen) of [HCP Lab](https://www.sysu-hcp.net), Sun YAt-sen University. I have successfully been admitted to the [School of Software and Microelectronics](https://www.ss.pku.edu.cn), [Peking University](https://www.pku.edu.cn), for graduate studies via the postgraduate recommendation exemption.
 
