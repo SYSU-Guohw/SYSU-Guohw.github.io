@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Beijing, Peking University, 2026
 * B.S. in Shenzhen, Sun Yat-sen University, 2022
 
