@@ -40,13 +40,4 @@ Research Highlights
 * **Summary:** Proposed the first multimodal state-space deep snake framework for medical image segmentation, integrating a Text-prompted Collaborative Dual Head Snake (TCDHS) mechanism.
 * **Status:** Submitted to the top-tier journal *Medical Image Analysis*.
 
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
