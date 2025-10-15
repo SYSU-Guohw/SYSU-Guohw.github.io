@@ -13,4 +13,4 @@ I was very fortunate to be advised by [Prof. Shen Zhao](https://ise.sysu.edu.cn/
 
 You can find my CV here: [Haowei Guo's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:guohw27@mail2.sysu.edu.cn) / [Github](https://github.com/SYSU-Guohw) / [Google Scholar](https://scholar.google.com/citations?user=zEpdycwAAAAJ&hl=zh-CN&authuser=1) / 
+[Email](mailto:guohw27@mail2.sysu.edu.cn) / [Github](https://github.com/SYSU-Guohw) / [Google Scholar](https://scholar.google.com/citations?user=zEpdycwAAAAJ&hl=zh-CN&authuser=1)
