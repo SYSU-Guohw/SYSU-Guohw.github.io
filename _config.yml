@@ -24,25 +24,25 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Haowei Guo"
+  pronouns         : 
+  bio              : 
+  location         : "Shenzhen, China"
+  employer         : "Sun Yat-sen University"
+  uri              : https://sysu-guohw.github.io
+  email            : "guohw27@mail2.sysu.edu.cn" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  academia         : 
+  arxiv            : 
+  googlescholar    : "https://scholar.google.com/citations?user=zEpdycwAAAAJ&hl=zh-CN&authuser=1"
+  inspire-hep      : 
+  impactstory      : 
+  orcid            : "https://orcid.org/0009-0007-4611-7932"
+  semantic         :
+  pubmed           : 
+  researchgate     : https://www.researchgate.net/profile/Haowei-Guo-3?ev=hdr_xprf
+  scopus           : 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
