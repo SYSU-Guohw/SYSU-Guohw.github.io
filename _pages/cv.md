@@ -18,7 +18,7 @@ Education
 Honors and Awards
 ======
 * **National Scholarship** (2023-2024 Academic Year)
-* **First-Class Excellent Student Scholarship** (SYSU, 2023-2024)
+* **First-Class Excellent Student Scholarship** (SYSU, 2022-2025, every academic year)
 * **China Robot Competition & RoboCup China Open:** National Third Prize (Team Leader)
 * **National College Students' Mathematical Modeling Contest (Guangdong):** Provincial Third Prize
   
