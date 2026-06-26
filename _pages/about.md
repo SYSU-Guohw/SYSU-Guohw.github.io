@@ -14,6 +14,6 @@ I was very fortunate to be advised by [Prof. Shen Zhao](https://ise.sysu.edu.cn/
 
 I am currently working as an Algorithm Research Intern at [Meituan](https://www.meituan.com) (M17), focusing on omni foundation models.
 
-You can find my CV here: [Haowei Guo's Curriculum Vitae](assets/郭皓玮简历（web）.pdf).
+You can find my CV here: [Haowei Guo's Curriculum Vitae](assets/郭皓玮简历.pdf).
 
 [Email](mailto:guohw27@mail2.sysu.edu.cn) / [Github](https://github.com/SYSU-Guohw) / [Google Scholar](https://scholar.google.com/citations?user=zEpdycwAAAAJ&hl=zh-CN&authuser=1)
