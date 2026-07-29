@@ -12,7 +12,8 @@ I'm a fourth year undergraduate student from [School of ISE](https://ise.sysu.ed
 I was very fortunate to be advised by [Prof. Shen Zhao](https://ise.sysu.edu.cn/teacher/ZhaoShen) of [HCP Lab](https://www.sysu-hcp.net), [Sun Yat-sen University](https://www.sysu.edu.cn). I have successfully been admitted to the [School of Software and Microelectronics](https://www.ss.pku.edu.cn), [Peking University](https://www.pku.edu.cn), for graduate studies via the postgraduate recommendation exemption.
 
 
-I am currently working as an Algorithm Research Intern at [Meituan](https://www.meituan.com) (M17), focusing on omni foundation models.
+Previously worked as an Algorithm Research Intern at [Meituan](https://www.meituan.com) (M17), focusing on omni foundation models ([Longcat-Next](https://longcat.chat/longcat-next/intro)). Currently seeking new internship opportunities in LLM foundation models, multimodal AI, and related research areas.
+
 
 You can find my CV here: [Haowei Guo's Curriculum Vitae](assets/郭皓玮-简历.pdf).
 
