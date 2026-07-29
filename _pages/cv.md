@@ -25,7 +25,7 @@ Honors and Awards
   
 Internship
 ======
-* **Research Intern**, Meituan, M17 Team (2025 – Present)
+* **Research Intern**, Meituan, M17 Team (2025.11 – 2026.7)
 
 Research Highlights
 ======
