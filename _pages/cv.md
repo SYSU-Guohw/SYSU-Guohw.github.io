@@ -31,7 +31,7 @@ Research & Industry Experience
 ======
 
 ### 1. Meituan LongCat-Next Unified Foundation Model
-* **Role:** Research Intern | **Nov. 2025 – Jun. 2026**
+* **Role:** Research Intern  **Nov. 2025 – Jun. 2026**
 * **Summary:** Worked on pre-training data construction and model training for **LongCat-Next Unified Foundation Model**, based on a unified discrete-token (**Discrete Native Autoregressive**) architecture. Contributed to multimodal understanding, generation, and interleaved image-text generation.
 * **Contributions:** Built scalable pipelines for **Caption image-text data, Knowledge-rich Entity data, UI Agent Caption & Grounding data, and interleaved image-text trajectory data**. Expanded the Caption dataset to **85M image-text pairs** and implemented automated pipelines for large-scale data production and quality validation. Also contributed to model pre-training, trajectory filtering, and data quality control.
 * **Publication:** Co-authored *LongCat-Next: Lexicalizing Modalities as Discrete Tokens*.
